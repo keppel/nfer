@@ -1,0 +1,19 @@
+{
+  "name": "nfer",
+  "version": "0.0.1",
+  "description": "the easiest way to deploy a keras model",
+  "main": "nfer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Judd Keppel <kepzorz@gmail.com>",
+  "license": "ISC",
+  "bin": {
+    "nfer": "./nfer.js"
+  },
+  "dependencies": {
+    "axios": "^0.15.3",
+    "commander": "^2.9.0"
+  }
+}
